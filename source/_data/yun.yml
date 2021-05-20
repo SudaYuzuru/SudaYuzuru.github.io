@@ -8,7 +8,7 @@ avatar:
         emoji: 🐇
         message: 废柴狐Nino今天也想摸🐟
 wordcloud:
-    enable: true
+    enable: false
 albums:
   enable: true
 pages:
