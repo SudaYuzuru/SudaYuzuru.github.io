@@ -2,9 +2,7 @@
 title: 关于第一次书写个人博客这件事
 date: 2021-05-20 09:52:40
 tags: 
-    -前端
     -Hexo
-    -分享
 categories: Nino的乱七八糟日常
 ---
 
