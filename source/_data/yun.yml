@@ -1,0 +1,79 @@
+avatar:
+    url: /images/avatar.jpg
+    rounded: true
+    opacity: 1
+    mickey_mouse: false
+    status:
+        enable: true
+        emoji: 🐇
+        message: 废柴狐Nino今天也想摸🐟
+wordcloud:
+    enable: true
+albums:
+  enable: true
+pages:
+post_card:
+  opacity: 0.8
+post_meta:
+  item_text: false
+  created_at: true
+  updated_at: true
+  categories: true
+  tags: true
+toc:
+  list_number: true
+  max_depth: 6
+  min_depth: 1
+  placeholder: 抱歉啦，还不想写目录
+  collapse: false
+codeblock:
+  copy_btn: true
+  prismjs:
+    light: default
+    dark: tomorrow
+lazyload:
+  enable: true
+say:
+  enable: true
+  api: /data/sentences.json
+  src: /js/say.js
+  # https://developer.hitokoto.cn/sentence/
+  hitokoto:
+    enable: false
+    api: https://v1.hitokoto.cn
+mourn:
+  enable: true
+  days:
+    - "4-4"
+banner:
+  enable: true
+  title: 废柴狐狸的未命名星球
+  src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+search:
+  modal: true
+  bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg
+  dark_bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/mountain-blur-30px.jpg
+  placeholder: 想要知道些什么？
+fireworks:
+  enable: true
+  colors:
+    - "102, 167, 221"
+    - "62, 131, 225"
+    - "33, 78, 194"
+scrollreveal:
+  enable: true
+  targets:
+    - .post-card
+    - .post-content img
+cursor:
+  enable: true
+  default: /images/default.cur
+  pointer: /images/click.cur
+  text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
