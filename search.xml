@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>狸猫计划-仿写百度主页</title>
+      <link href="2021/05/21/second/"/>
+      <url>2021/05/21/second/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h1 id="狸猫计划"><a href="#狸猫计划" class="headerlink" title="狸猫计划"></a>狸猫计划</h1><p>作为一系列的仿写项目，出于自己追求完美（bushi🙅）的性格，力争将静态网页写的相差无几。<br>因为狐和狸都很擅长变化嘛，而且狸的变化更胜一筹（👈有顶天家族🐸的影响），所以决定将这个计划命名为狸猫测试啦👏👏👏</p></blockquote><p>这个项目是刚学习了一周左右的练手，为了不打击自己的积极性，所以先向最简单的百度下手啦🤭</p><p>整个页面就如👇所示啦</p><p><img src="/images/baidu.gif" alt="baidu" loading="lazy"></p><p>如果你想要获取到这份代码的话，可以去👉<a href="https://github.com/SudaYuzuru/Test">❗这里哦</a>下载。<del>（一般不会有人想要的吧，别自以为是啊喂）</del></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端学习的路是用头发铺成的 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HTML </tag>
+            
+            <tag> CSS </tag>
+            
+            <tag> 练习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一个看起来毫无意义的企划</title>
       <link href="2021/05/20/three/"/>
       <url>2021/05/20/three/</url>
