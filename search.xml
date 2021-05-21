@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>关于我请了只猫猫🐈当看板这档事</title>
+      <link href="2021/05/21/neko/"/>
+      <url>2021/05/21/neko/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>上课摸🐟的时候，莫名想起了之前看过的一个教程——关于如何制作Live-2D，于是开始考虑，“要不要在我未命名星球上养只猫猫呢？毕竟小王子都有自己的🌹玫瑰花…”🤔<br>之后就着手学习如何在Hexo上添加<del>看板娘</del>看板猫猫啦<br>参考的资料在👉<a href="https://vonsdite.github.io/posts/fbd1f97f.html">Hexo Next 添加萌萌的宠物live2d</a><br>猫猫太可爱了，很难不想拥有</p><p><img src="/images/get.gif" alt="GET" loading="lazy"></p><p><del>然后就悄咪咪地把人家的猫猫抱回来啦</del></p></blockquote><p>也不是不喜欢自带的橘色双马尾看板娘啦，只是喜欢猫猫更多一点<br>（狐狸也很喜欢，但是没<del>偷</del>找到小狐狸，嘛，问题不大，P.S.<del>嘤嘤怪</del>小水獭也很喜欢🦦）</p><blockquote><h2 id="关于猫猫的名字"><a href="#关于猫猫的名字" class="headerlink" title="关于猫猫的名字"></a>关于猫猫的名字</h2><p>养猫猫算是人生大业，但家里一直不准，因为不想给自己找麻烦（什？！？）<br>多半是看出了我的不靠谱，大概率连自己都养不活，ごめん！！🙇<br>之前的想法是食物相关的名字，后期又在想要不要起个角色的名字之类的，现在的话，大概就准备叫“噗噗”了<br><del>正如老话所说的——贱名好养活嘛</del></p></blockquote><blockquote><h2 id="如何拥有同款猫猫？"><a href="#如何拥有同款猫猫？" class="headerlink" title="如何拥有同款猫猫？"></a>如何拥有同款猫猫？</h2><ol><li>打开命令行<code>CMD</code>，输入cd 你的博客存储路径</li><li>输入👇进行插件下载</li></ol></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-helper-live2d --save</span><br></pre></td></tr></table></figure><blockquote><ol start="3"><li>插件<a href="https://github.com/EYHN/hexo-helper-live2d">hexo-helper-live2d</a>下载成功后，命令行输入<code>hexo s</code>就可以找到看板娘啦</li><li>在配置文件<code>_config.yml</code>中进行配置</li></ol></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">live2d:</span><br><span class="line">  enable: true</span><br><span class="line">  scriptFrom: local</span><br><span class="line">  pluginRootPath: live2dw/</span><br><span class="line">  pluginJsPath: lib/</span><br><span class="line">  pluginModelPath: assets/</span><br><span class="line">  model:</span><br><span class="line">    # 这是猫猫的模型</span><br><span class="line">    use: live2d-widget-model-tororo</span><br><span class="line">  display:</span><br><span class="line">    # 设置猫猫所处的位置与大小</span><br><span class="line">    position: right</span><br><span class="line">    width: 120</span><br><span class="line">    height: 240</span><br><span class="line">  mobile:</span><br><span class="line">    show: false</span><br><span class="line">  react:</span><br><span class="line">    opacityDefault: 1</span><br><span class="line">    opacityOnHover: 1</span><br></pre></td></tr></table></figure><blockquote><ol start="5"><li>在命令行<code>CMD</code>，使用<code>npm install &#123;your model&#39;s package name&#125;</code>就可以下载你喜欢的模型啦，这里用的是<code>live2d-widget-model-tororo</code></li><li>之后再进行生成，部署，大家就可以在你站点上看猫猫啦</li></ol></blockquote><p><img src="/images/yep.gif" alt="YE" loading="lazy"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Nino的乱七八糟日常 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 日常 </tag>
+            
+            <tag> Live-2D </tag>
+            
+            <tag> Demo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>狸猫计划-仿写百度主页</title>
       <link href="2021/05/21/second/"/>
       <url>2021/05/21/second/</url>
