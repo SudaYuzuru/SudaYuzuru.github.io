@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>【补档】狸猫计划第二弹-仿写小米官网</title>
+      <link href="2021/05/22/fotrh/"/>
+      <url>2021/05/22/fotrh/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h2 id="狸猫计划"><a href="#狸猫计划" class="headerlink" title="狸猫计划"></a>狸猫计划</h2><p>延续了第一弹的<del>完美</del>复刻，将小米的官网主页进行仿写。<br>使用<code>HTML</code>，<code>CSS</code>和少量<code>JavaScript</code>进行构建。<br>其中，<code>JavaScript</code>用于实现官网上的图片幻灯片形式播放。<br>所引用的跳转链接均为小米实际所用链接。<br>代码已经上传到了👉<a href="https://github.com/SudaYuzuru/Test">狸猫测试-伪小米</a>，如果你需要的话，可以进行下载</p></blockquote><blockquote><h2 id="实例演示"><a href="#实例演示" class="headerlink" title="实例演示"></a>实例演示</h2><p>关于仿写出来的页面，差不多就长这个样子啦</p></blockquote><p><img src="/images/xiaomi.gif" alt="Xiaomi" loading="lazy"></p><p>乍一看还挺像那么回事的😳</p><blockquote><h2 id="存在缺陷"><a href="#存在缺陷" class="headerlink" title="存在缺陷"></a>存在缺陷</h2><p>呀，局限于自身能力水平和知识储备，整体网页还存在很大的缺陷<br>例如：</p><h3 id="1-幻灯片播放区的小圆点点（我也不知道它的官方叫法是什么）"><a href="#1-幻灯片播放区的小圆点点（我也不知道它的官方叫法是什么）" class="headerlink" title="1. 幻灯片播放区的小圆点点（我也不知道它的官方叫法是什么）"></a>1. 幻灯片播放区的小圆点点（我也不知道它的官方叫法是什么）</h3><p>小圆点点还无法做到随着图片的顺序进行对应显示，鼠标点击也没法切换（问题还挺大的😭😭）</p></blockquote><p><img src="/images/xiaomi-hdp.gif" alt="point" loading="lazy"></p><blockquote><h3 id="2-小米秒杀的定时器"><a href="#2-小米秒杀的定时器" class="headerlink" title="2.  小米秒杀的定时器"></a>2.  小米秒杀的定时器</h3><p>暂时还没加入定时器在页面中（应该不是很难，就是目前没什么时间去完善）</p></blockquote><p><img src="/images/xiaomi-timer.gif" alt="timer" loading="lazy"></p><blockquote><h3 id="3-商品滚动展示"><a href="#3-商品滚动展示" class="headerlink" title="3. 商品滚动展示"></a>3. 商品滚动展示</h3><p>也是秒杀区的问题，目前还不知道怎么实现滚动显示，以及上方切换按钮的使用</p></blockquote><blockquote><h3 id="4-大类中的商品切换"><a href="#4-大类中的商品切换" class="headerlink" title="4. 大类中的商品切换"></a>4. 大类中的商品切换</h3><p>像是家电啊，周边啊，那些区的商品展示无法实现切换，只能看到目前写在上面的商品</p></blockquote><p><img src="/images/xiaomi-page.gif" alt="change" loading="lazy"></p><blockquote><h3 id="5-所有栏的变化提示"><a href="#5-所有栏的变化提示" class="headerlink" title="5. 所有栏的变化提示"></a>5. 所有栏的变化提示</h3><p>关于搜索栏的提示词，目前还没有思路如何去实现为定时变化的</p></blockquote><p><img src="/images/xiaomi-sousuo.gif" alt="research" loading="lazy"></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>因为这个项目已经搁置有一阵子了，是4月5日结束的，学习前端两个月的成品，虽然漏洞百出，但大体上还是可以迷惑下眼球😵<br>一直在忙课业✍的事，所以把前端尘封了很久，搭博客之后会慢慢捡起来的💪<br>去小米的官网又看了一下，发现新更新了好多设计，比如商品描述啊，新品提示啊之类的，看来完善路漫漫啊😞😞😞</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端学习的路是用头发铺成的 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HTML </tag>
+            
+            <tag> CSS </tag>
+            
+            <tag> JavaScript </tag>
+            
+            <tag> 练习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于我请了只猫猫🐈当看板这档事</title>
       <link href="2021/05/21/neko/"/>
       <url>2021/05/21/neko/</url>
@@ -35,7 +66,7 @@
     
     
     <entry>
-      <title>狸猫计划-仿写百度主页</title>
+      <title>【补档】狸猫计划-仿写百度主页</title>
       <link href="2021/05/21/second/"/>
       <url>2021/05/21/second/</url>
       
